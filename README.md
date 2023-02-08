@@ -21,7 +21,7 @@ This is a landing page to Balle Bot, a discord bot of Rafaella Ballerini's commu
 
 ## Author
 
-- LinkedIn - [Wiklyn](www.linkedin.com/in/wiklyn-craveiro)
+- GitHub - [Wiklyn](www.github.com/Wiklyn)
 - Rafaella Ballerini - [rafaaballerini](https://beacons.ai/rafaballerini)
 
 
