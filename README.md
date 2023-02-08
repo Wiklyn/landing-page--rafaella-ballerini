@@ -11,7 +11,7 @@ This is a landing page to Balle Bot, a discord bot of Rafaella Ballerini's commu
 
 ## Page
 
-<a href="https://wiklyn.github.io/landing-page--rafaella-ballerini/"  target="_blank">Balle Bot</a>
+<a href="https://wiklyn.github.io/landing-page--rafaella-ballerini/"  target="_blank" rel="external">Balle Bot</a>
 
 ## Built with
 
