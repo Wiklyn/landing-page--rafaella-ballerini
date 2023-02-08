@@ -4,14 +4,9 @@ This is a landing page to [Balle Bot](https://wiklyn.github.io/landing-page--raf
 
 ## Table of contents
 
-- [Page](#overview)
 - [Built with](#built-with)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-
-## Page
-
-Balle Bot
 
 ## Built with
 
