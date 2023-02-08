@@ -1,6 +1,6 @@
 # Balle Bot - Landing Page
 
-This is a landing page to Balle Bot, a discord bot of Rafaella Ballerini's community. She taught how to build this page on her Youtube channel.
+This is a landing page to [Balle Bot](https://wiklyn.github.io/landing-page--rafaella-ballerini/), a discord bot of Rafaella Ballerini's community. She taught how to build this page on her Youtube channel.
 
 ## Table of contents
 
@@ -11,7 +11,7 @@ This is a landing page to Balle Bot, a discord bot of Rafaella Ballerini's commu
 
 ## Page
 
-<a href="https://wiklyn.github.io/landing-page--rafaella-ballerini/"  target="_blank" rel="external">Balle Bot</a>
+Balle Bot
 
 ## Built with
 
